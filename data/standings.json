@@ -1,0 +1,12 @@
+[
+  { "team_id": "1C07ACC2-A951-4EE4-AC55-FFD42ACA1533", "wins": 8, "losses": 1, "map_differential": 14, "points": 24, "kills": 168, "total": 312 },
+  { "team_id": "34219648-2589-466A-A44D-889E6BC3AD96", "wins": 7, "losses": 2, "map_differential": 11, "points": 21, "kills": 152, "total": 287 },
+  { "team_id": "C14409F0-9EBF-4CC9-B502-F3B78C6C3616", "wins": 6, "losses": 3, "map_differential": 6, "points": 18, "kills": 141, "total": 254 },
+  { "team_id": "F319F134-9683-4958-B933-0FCC2D3CA1E2", "wins": 6, "losses": 3, "map_differential": 5, "points": 18, "kills": 136, "total": 248 },
+  { "team_id": "1D4DBE0D-772A-4DC0-9641-EA19E2FAF99A", "wins": 5, "losses": 4, "map_differential": 2, "points": 15, "kills": 124, "total": 219 },
+  { "team_id": "B50741E0-115C-456F-AD51-A7C980569810", "wins": 4, "losses": 5, "map_differential": -1, "points": 12, "kills": 118, "total": 201 },
+  { "team_id": "1160BAAF-3F84-4921-8D37-C54371C594C3", "wins": 4, "losses": 5, "map_differential": -2, "points": 12, "kills": 109, "total": 192 },
+  { "team_id": "EA6A02E2-98A6-4C4A-AB1E-6EC0884B07C5", "wins": 3, "losses": 6, "map_differential": -5, "points": 9, "kills": 94, "total": 168 },
+  { "team_id": "F635646F-2EA3-4132-B49F-15872A3B55D4", "wins": 2, "losses": 7, "map_differential": -12, "points": 6, "kills": 76, "total": 138 },
+  { "team_id": "A8F731CE-23E7-403F-9FC9-71A841183284", "wins": 1, "losses": 8, "map_differential": -18, "points": 3, "kills": 58, "total": 102 }
+]

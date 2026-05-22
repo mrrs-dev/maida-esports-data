@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1C07ACC2-A951-4EE4-AC55-FFD42ACA1533",
+    "name": "SMK LABUAN",
+    "tag": "SKL",
+    "region": "Bandar",
+    "logo_symbol": "flame.fill",
+    "accent_color_hex": "#FF6B35",
+    "bio": "Defending champions of the Labuan eSports Challenge with a reputation for fearless engagements.",
+    "founded": 2018,
+    "roster": [
+      { "id": "DA8BB079-2BFA-4A3C-975E-BDA60AC4255D", "handle": "Razor", "real_name": "Aiman Hakimi", "role": "Duelist", "country": "MY" },
+      { "id": "E6F2B977-228C-4F1F-9933-27E5D867618B", "handle": "Vex", "real_name": "Daniel Wong", "role": "Controller", "country": "MY" },
+      { "id": "E247F27C-77EC-4014-AFF3-7C74210C41B3", "handle": "Nyx", "real_name": "Nur Aisyah", "role": "Sentinel", "country": "MY" },
+      { "id": "32BB079D-90EA-4F00-BD5A-DAAA6DA63C42", "handle": "Riot", "real_name": "Iskandar Yusof", "role": "Initiator", "country": "MY" },
+      { "id": "C4808E75-40AE-45E5-87F6-525828AE2CA5", "handle": "Pulse", "real_name": "Hafiz Rahman", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "C14409F0-9EBF-4CC9-B502-F3B78C6C3616",
+    "name": "SMK LAJAU",
+    "tag": "LJU",
+    "region": "Lajau",
+    "logo_symbol": "bolt.fill",
+    "accent_color_hex": "#5B8DEF",
+    "bio": "Aggressive frag-heavy roster known for tight rotations and lightning-fast plant defenses.",
+    "founded": 2019,
+    "roster": [
+      { "id": "6AFE664B-D5C5-47DB-8023-CC830516E942", "handle": "Frost", "real_name": "Lukas Tan", "role": "Duelist", "country": "MY" },
+      { "id": "81E3EBDF-61E0-4510-9218-E6E8FA908EF9", "handle": "Hex", "real_name": "Marcus Lim", "role": "Controller", "country": "MY" },
+      { "id": "69C82B79-5A6B-4C4F-835B-B5993724554C", "handle": "Saint", "real_name": "Theo Chong", "role": "Sentinel", "country": "MY" },
+      { "id": "28A00A22-9996-4419-9296-84DCDF045B0C", "handle": "Echo", "real_name": "Nadia Roslan", "role": "Initiator", "country": "MY" },
+      { "id": "C18CA7E8-1DE3-4085-9A7B-5F9FDC6BC3A4", "handle": "Vortex", "real_name": "Jonas Gan", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "34219648-2589-466A-A44D-889E6BC3AD96",
+    "name": "SM SAINS LABUAN",
+    "tag": "SSL",
+    "region": "Layang-Layangan",
+    "logo_symbol": "atom",
+    "accent_color_hex": "#9D4EDD",
+    "bio": "Methodical, analytical, and disciplined — the science school squad plays the long game.",
+    "founded": 2017,
+    "roster": [
+      { "id": "BA65B83F-41B9-4294-9520-513567BBBBCF", "handle": "Quark", "real_name": "Wei Jian", "role": "Duelist", "country": "MY" },
+      { "id": "0566D8C9-7C8C-433D-9DB6-92C264E40635", "handle": "Lattice", "real_name": "Aravind Kumar", "role": "Controller", "country": "MY" },
+      { "id": "F118E882-93F9-4DCE-8453-08E495CC10A0", "handle": "Halo", "real_name": "Yuki Mori", "role": "Sentinel", "country": "MY" },
+      { "id": "6F8B4F85-B26A-4598-8BCA-7E81B5A5FF26", "handle": "Drift", "real_name": "Sanjay Patel", "role": "Initiator", "country": "MY" },
+      { "id": "3297C206-6554-4DE7-80C3-90555E08A5A5", "handle": "Nova", "real_name": "Hana Khairudin", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "EA6A02E2-98A6-4C4A-AB1E-6EC0884B07C5",
+    "name": "SMK TP DAUN",
+    "tag": "TPD",
+    "region": "Tanjung Puas",
+    "logo_symbol": "leaf.fill",
+    "accent_color_hex": "#2A9D8F",
+    "bio": "Hard-working underdogs with creative util usage and unpredictable map calls.",
+    "founded": 2020,
+    "roster": [
+      { "id": "BBA6FD47-365D-4FCC-836E-B32C3B3B9E08", "handle": "Fern", "real_name": "Luiz Pereira", "role": "Duelist", "country": "MY" },
+      { "id": "C4D2E91D-C44E-4A27-8377-2325B31A3AD0", "handle": "Mira", "real_name": "Camila Costa", "role": "Controller", "country": "MY" },
+      { "id": "BB7973C4-0449-4945-896D-9ECAC9CD3AB7", "handle": "Talon", "real_name": "Bruno Lim", "role": "Sentinel", "country": "MY" },
+      { "id": "0D783613-8D1F-4C9E-AABB-D0FA0CC73A12", "handle": "Glitch", "real_name": "Pedro Alves", "role": "Initiator", "country": "MY" },
+      { "id": "976859BE-6528-4ABE-AF95-4B8BDA5B4E51", "handle": "Zephyr", "real_name": "Rafael Souza", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "1D4DBE0D-772A-4DC0-9641-EA19E2FAF99A",
+    "name": "SMK PANTAI",
+    "tag": "PNT",
+    "region": "Pantai",
+    "logo_symbol": "water.waves",
+    "accent_color_hex": "#0096C7",
+    "bio": "Coastal squad with a smooth, calm playstyle — great in high-pressure clutches.",
+    "founded": 2018,
+    "roster": [
+      { "id": "A5E1B6A7-7C91-4F39-9768-CE5AD680407C", "handle": "Tide", "real_name": "Faris Zulkifli", "role": "Duelist", "country": "MY" },
+      { "id": "01F56106-5E5E-488E-9850-68DAB1D40071", "handle": "Coral", "real_name": "Sara Anwar", "role": "Controller", "country": "MY" },
+      { "id": "7FED58B6-BF62-4615-8982-FCFAA8DAE67A", "handle": "Reef", "real_name": "Danish Iskandar", "role": "Sentinel", "country": "MY" },
+      { "id": "26A697D5-5758-42C6-B863-904180C5551C", "handle": "Brine", "real_name": "Hidayah Salleh", "role": "Initiator", "country": "MY" },
+      { "id": "E2579990-71F8-45CB-8590-16C531849DE4", "handle": "Surge", "real_name": "Aiden Tan", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "F635646F-2EA3-4132-B49F-15872A3B55D4",
+    "name": "SMK RANCHA",
+    "tag": "RCH",
+    "region": "Rancha-Rancha",
+    "logo_symbol": "mountain.2.fill",
+    "accent_color_hex": "#A0522D",
+    "bio": "Rebuilding year for the highland school — young roster gaining confidence each match.",
+    "founded": 2021,
+    "roster": [
+      { "id": "2D740479-6297-4367-AB02-5EEB78372545", "handle": "Granite", "real_name": "Iskandar Bin Ali", "role": "Duelist", "country": "MY" },
+      { "id": "7F4F19C7-8366-423E-8BD7-EB145394CEA7", "handle": "Stalker", "real_name": "Anton Voo", "role": "Controller", "country": "MY" },
+      { "id": "25981F7A-C40F-44F2-A65B-925477CD34D0", "handle": "Steel", "real_name": "Magnus Lai", "role": "Sentinel", "country": "MY" },
+      { "id": "F23EA690-755C-4DDD-B9F0-445ECB7EC99F", "handle": "Bramble", "real_name": "Owen Hasan", "role": "Initiator", "country": "MY" },
+      { "id": "7E8FB894-D9F3-45D7-B4B0-D05F762483EF", "handle": "Cinder", "real_name": "Roberto Conti", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "1160BAAF-3F84-4921-8D37-C54371C594C3",
+    "name": "SMK MUTIARA",
+    "tag": "MUT",
+    "region": "Mutiara",
+    "logo_symbol": "sparkles",
+    "accent_color_hex": "#E91E63",
+    "bio": "Stylish duelist-heavy comp with a fanbase to match. Crowd favorites every season.",
+    "founded": 2019,
+    "roster": [
+      { "id": "754A3549-539A-4B31-B78B-42C2CD3BFA2E", "handle": "Pearl", "real_name": "Mei Ling", "role": "Duelist", "country": "MY" },
+      { "id": "5CDD8C5D-FBD5-4048-A6FC-D745358200A0", "handle": "Lustre", "real_name": "Aisha Bakar", "role": "Controller", "country": "MY" },
+      { "id": "C6EEB23F-6333-49BB-8DD1-897AB5B241A2", "handle": "Shimmer", "real_name": "Joel Cheng", "role": "Sentinel", "country": "MY" },
+      { "id": "D0DB57D5-68FA-44B7-90E1-94D8D0604D33", "handle": "Onyx", "real_name": "Tyrell Jamal", "role": "Initiator", "country": "MY" },
+      { "id": "D7B30F21-DA32-4F24-997D-8E58C9898C59", "handle": "Lyra", "real_name": "Hanna Kim", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "F319F134-9683-4958-B933-0FCC2D3CA1E2",
+    "name": "ST ANNE",
+    "tag": "STA",
+    "region": "Bandar",
+    "logo_symbol": "shield.lefthalf.filled",
+    "accent_color_hex": "#1D3557",
+    "bio": "Convent school squad with iron-tight discipline and a deep sub bench.",
+    "founded": 2016,
+    "roster": [
+      { "id": "114F3785-FA7A-4594-A7A5-29EE4006718D", "handle": "Vesper", "real_name": "Rachel Ng", "role": "Duelist", "country": "MY" },
+      { "id": "52B07920-50A8-4AB8-8FF5-C20B485C96BE", "handle": "Crown", "real_name": "Sophia D'Cruz", "role": "Controller", "country": "MY" },
+      { "id": "2D84F1DD-97E9-40AD-BD37-FE4568855D4D", "handle": "Hymn", "real_name": "Maria Fernandez", "role": "Sentinel", "country": "MY" },
+      { "id": "054C69BF-5B6C-4E64-B805-02E2F9B27D56", "handle": "Veil", "real_name": "Eliza Tham", "role": "Initiator", "country": "MY" },
+      { "id": "63D965CA-D16E-4571-8FA3-265A289FE89B", "handle": "Choir", "real_name": "Beatrice Low", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "B50741E0-115C-456F-AD51-A7C980569810",
+    "name": "SMST ANTHONY",
+    "tag": "STN",
+    "region": "Bandar",
+    "logo_symbol": "shield.fill",
+    "accent_color_hex": "#FFB703",
+    "bio": "Storied program with championship pedigree and one of the largest student fan sections.",
+    "founded": 2015,
+    "roster": [
+      { "id": "0BDA7025-E31C-47C7-946D-126D10D5B5FB", "handle": "Volt", "real_name": "Marcus Reed", "role": "Duelist", "country": "MY" },
+      { "id": "7E3C3013-E7C6-4050-966B-C023B7BB9D88", "handle": "Ash", "real_name": "Diego Morales", "role": "Controller", "country": "MY" },
+      { "id": "40F0EB6F-4D80-4E46-AEE2-6149486484BB", "handle": "Quill", "real_name": "Jordan Blake", "role": "Sentinel", "country": "MY" },
+      { "id": "2796E731-D190-441E-A16B-12D8B6A5F279", "handle": "Ember", "real_name": "Sasha Iyad", "role": "Initiator", "country": "MY" },
+      { "id": "E5B3A61F-7DDA-4CAE-A8B7-1C473C6CBAD5", "handle": "Onyx2", "real_name": "Ravi Chandran", "role": "Flex", "country": "MY" }
+    ]
+  },
+  {
+    "id": "A8F731CE-23E7-403F-9FC9-71A841183284",
+    "name": "LIS KVL",
+    "tag": "KVL",
+    "region": "Bandar",
+    "logo_symbol": "graduationcap.fill",
+    "accent_color_hex": "#6C757D",
+    "bio": "International school newcomers — small roster, big ambitions, learning fast.",
+    "founded": 2023,
+    "roster": [
+      { "id": "CC11F69F-79E9-4321-A027-2A2E5B183025", "handle": "Comet", "real_name": "Aditya Rao", "role": "Duelist", "country": "MY" },
+      { "id": "98DDC4C9-8782-4E6A-991E-5E42A1EDA719", "handle": "Nebula", "real_name": "Wei Zhang", "role": "Controller", "country": "MY" },
+      { "id": "851D5EB7-8431-4311-B063-015CC8CEDC86", "handle": "Orbit", "real_name": "Karan Mehta", "role": "Sentinel", "country": "MY" },
+      { "id": "12165E82-0D7A-4B71-8388-F0A4286972B3", "handle": "Pixel", "real_name": "Sofia Reyes", "role": "Initiator", "country": "MY" },
+      { "id": "67964A64-BA18-4879-A6BB-08F1CB0A6AD2", "handle": "Rune", "real_name": "Liam O'Brien", "role": "Flex", "country": "MY" }
+    ]
+  }
+]
